@@ -46,7 +46,6 @@ let clock = () => {
 };
 
 clock();
-// setInterval(clock, 1000);
 
 const port = 3000;
 
